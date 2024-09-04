@@ -1,0 +1,5 @@
+node_modules
+efficientnet_model.h5
+sequential_model.h5
+updated_efficientnet_model.h5
+venv
